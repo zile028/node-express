@@ -1,0 +1,40 @@
+[
+  {
+    "text": "Pitanje 10",
+    "options": ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+    "answer": "odgovor 1",
+    "points": 5,
+    "category": "movies"
+  },
+
+  {
+    "text": "Pitanje 20",
+    "options": ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+    "answer": "odgovor 1",
+    "points": 5,
+    "category": "sport"
+  },
+
+  {
+    "text": "Pitanje 30",
+    "options": ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+    "answer": "odgovor 1",
+    "points": 5,
+    "category": "movies"
+  },
+
+  {
+    "text": "Pitanje 40",
+    "options": ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+    "answer": "odgovor 1",
+    "points": 5,
+    "category": "sport"
+  },
+  {
+    "text": "Pitanje 50",
+    "options": ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+    "answer": "odgovor 1",
+    "points": 5,
+    "category": "sport"
+  }
+]
